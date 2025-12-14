@@ -56,18 +56,6 @@ This keeps the learner within an appropriate challenge zone.
 
 ---
 
-## Project Structure
-math-adaptive-prototype/
-│
-├── README.md
-├── requirements.txt
-└── src/
-├── main.py # Entry point & session flow
-├── puzzle_generator.py # Generates math problems
-├── tracker.py # Tracks performance & timing
-└── adaptive_engine.py # Adaptive difficulty logic
-
----
 ## How to Run
 
 ### 1. Clone the repository
