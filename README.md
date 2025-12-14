@@ -72,7 +72,7 @@ math-adaptive-prototype/
 
 ### 1. Clone the repository
 ```bash
-git clone <your-github-repo-link>
+git clone https://github.com/Anusshaydv/Math-Adaptive-Prototype.git
 cd math-adaptive-prototype
 ```
 
