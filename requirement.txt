@@ -1,0 +1,5 @@
+# Requirements for Math Adventures – Adaptive Learning Prototype
+# This project uses only Python standard libraries.
+# No external dependencies are required.
+
+python>=3.8
